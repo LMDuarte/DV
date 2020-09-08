@@ -2,7 +2,7 @@
 
 
 ### Journalism in the age of Data
-```markdown
+
  Every day, companies like Facebook or Google collect, analyze, and export that data. Companies like them provided us with more data than a single person could comprehend. It may look chaotic and may deal with a significant volume of variables and represents thousands of human beings, but it can be manageable. Data visualization can create a manageable way of seeing that data. The video "Journalism in the age of Data" explores the way data visualization can aid our understanding of data. 
  
  
