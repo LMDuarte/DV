@@ -15,30 +15,3 @@ As humans, we are interested in understanding ourselves and our surroundings. We
 Data points by themselves can be insignificant, and once they are all together, they can be messy, but they can show solutions to our problems or precautions to upcoming ones if presented clearly. The video "Journalism in the age of Data" presented how data visualization can help us understand the abundance of data at our disposal. The video explained how data should be presented in aesthetically pleasing, eye-catching, and intuitive, interactive, and straightforward visuals. It also explored how "all that" is a tall order that requires a deep understanding of the data and design. It takes teams of people to put together infographics that will deliver the right message. It is a complicated task, but we must understand how to manage all the available data.
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LMDuarte/DV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
