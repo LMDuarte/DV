@@ -30,7 +30,7 @@ Additionally, drawing as an exercise does improve the craft. The assignment of I
 
 As seen in "Teaching to See," the 1979 Beethoven poster shows a functional design that is creative, meaningful, and visually appealing. Like the information of time and date can be presented in such lively and attractive ways, such can data. By applying the philosophy of Igne Druckery to data visualization, we could reach many intrigued eyes. It is never enough to be correct or to have the right data. If the message cannot be appealing to listen to or see, then the data is useless. It is not enough to appeal to academics or those who actively seek information science presents. As researchers, we must appeal to a broad audience. We must apply more artistic and visually interesting designs in our data presentation.
 
-###Small Details
+### Small Details
 
 When designing a visual, you have to make specific decisions for the lines, shapes, and the colors you will use. As data analysts, we cannot ignore the importance of visualization. The truth is that people need an incentive to care about data. Picking the correct lines, shapes, and colors can create an appealing and informative visual. A great example of the use of shapes, lines, and color is music visualization videos.
 
