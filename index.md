@@ -41,3 +41,4 @@ Shapes can play an essential part in designing a piece of music visually. The sh
 
 A stylish way to represent sound is with sound waves. Sound in itself is a wave and can be represented visually as such. A sound wave visual can be presented by a series of graphs or by lines peaking with the audio. Although other visualizations imitate dancing, this sort of visuals mimics speaking. The way lines move up and down at high speed makes it look like moving lips. The use of sound waves is prevalent because of its simplicity. It only needs one line to be able to represent sound.
 
+<iframe src="https://lmduarte.github.io/DV/general%20housework%20and%20laundry.html" frameborder="0" allowfullscreeen></iframe>
