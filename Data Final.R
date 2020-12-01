@@ -852,23 +852,5 @@ plot(Result,
 
 
 
-#/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-#reg sex and happyness
-print(da37404.0001$SEXFRQ)                     
-da37404.0001$SEXFRQ <- revalue(da37404.0001$SEXFRQ, c("(1) Not at all in the past 12 months"="1",
-                                "(3) Once every few months"="3","(4) Once a month"="4",
-                                "(5) Two or three times a month"="5","(2) A few times over the past 12 months"="2",
-                                "(6) Once or more a week"="6")) 
-
-print(da37404.0001$SEXFRQ)
-da37404.0001$SEXFRQ= as.numeric(da37404.0001$SEXFRQ)
-by(da37404.0001$SEXFRQ,da37404.0001$RTYP,summary)
-
-
-#ANOVA
-one.way<- aov(SEXFRQ~ RTYP, data=da37404.0001 )
-summary(one.way)
-
-
 
 
